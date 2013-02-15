@@ -6,16 +6,20 @@ Tested up to: 3.5.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 GroundWork creates beautiful functional organization of resource materials for Professional Development or Training.
 
 == Description ==
 
-GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+nGroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+
 With a few steps you can create highly organized resource libraries designed to allow users to easily find the support documents, videos, or links they need. 
+
 If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
+
 Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
+
 **The Promethean book is currently the most developed on the site.** 
+
 *Features:*
 *  Simple Resource Tile Creation
 *  Organize Resources into Books>Chapters>Sections>Tiles
@@ -29,7 +33,7 @@ Visit a live and growing GroundWork library in the [iCafe Resource library] [ica
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Watch the included tutorial on the main plugin dashboard menu
 1. Create some content
-1. Place the shortcode '[groundwork]' on a page
+1. Place the shortcode [groundwork] on a page
 1. Enjoy your library!
 
 == Screenshots ==
