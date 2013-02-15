@@ -4,7 +4,7 @@ Donate link:
 Tags: library, resource management, staff development, icafe
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 0.8
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,14 @@ GroundWork creates beautiful functional organization of resource materials for P
 
 == Description ==
 
-GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery. With a few steps you can create highly organized resource sections designed to allow users to easily find the support documents, videos, or links they need. If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
+GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+
+With a few steps you can create highly organized resource libraries designed to allow users to easily find the support documents, videos, or links they need. 
+
+If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
+
+Visit a live and growing GroundWork library in the [iCafe Resource library] (http://icafe.lcisd.org/resources "iCafe") - **The Promethean book is currently the most developed.** 
+
 Features:
 * Simple Resource Tile Creation
 * Organize Resources into Books>Chapters>Sections>Tiles
@@ -22,7 +29,10 @@ Features:
 
 1. Upload `GroundWork` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place the shortcode [groundwork] on a page.
+1. Watch the included tutorial on the main plugin dashboard menu
+1. Create some content
+1. Place the shortcode [groundwork] on a page
+1. Enjoy your library!
 
 == Frequently asked questions ==
 
@@ -69,5 +79,13 @@ Your template is too narrow. GroundWork requires a full width template with no s
 
 == Changelog ==
 
+= 1.0.1 =
+* Readme.txt changes.
+* Fixes to SVN layout to enable screenshots in Wordpress.org repository
+
 = 1.0 =
 * First Public Release.
+
+== Upgrade Notice ==
+
+
