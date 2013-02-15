@@ -1,6 +1,5 @@
 === GroundWork ===
 Contributors: chrisdnilsson@gmail.com
-Donate link: 
 Tags: library, resource management, staff development, icafe
 Requires at least: 3.0
 Tested up to: 3.5.1
@@ -9,36 +8,20 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 GroundWork creates beautiful functional organization of resource materials for Professional 
-Development or  
-
-Training.
+Development or Training.
 
 == Description ==
 
-A GroundWork is a plugin designed to create beautiful functional resource libraries for Professional 
-Development  
-
-delivery.
-
+B GroundWork is a plugin designed to create beautiful functional resource libraries for Professional 
+Development delivery.
 With a few steps you can create highly organized resource libraries designed to allow users to easily find 
-the  
-
-support documents, videos, or links they need. 
-
+the support documents, videos, or links they need. 
 If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for 
-you. Primarily  
-
-designed to be used by Public Education Staff Development Departments but any department 
-responsible for  
-
-organizational training can benefit from GroundWork.
-
+you. Primarily designed to be used by Public Education Staff Development Departments but any 
+department responsible for organizational training can benefit from GroundWork.
 Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
-
 **The Promethean book is currently the most developed on the site.** 
-
 Features:
-
 *  Simple Resource Tile Creation
 *  Organize Resources into Books>Chapters>Sections>Tiles
 *  Drag and Drop Reordering
@@ -72,9 +55,7 @@ Resource Tiles can be added to any Chapter or Section.
 = What are "Resource Tiles" =
 
 Resource should be very narrow in their focus. A "Tile" is a simple container that holds related Text, 
-Video, or  
-
-Links together in a organizational and visual way.
+Video, or Links together in a organizational and visual way.
 
 = Can I reuse a Tile? =
 
