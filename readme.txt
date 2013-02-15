@@ -18,12 +18,16 @@ With a few steps you can create highly organized resource libraries designed to 
 
 If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
 
-Visit a live and growing GroundWork library in the [iCafe Resource library] (http://icafe.lcisd.org/resources "iCafe") - **The Promethean book is currently the most developed.** 
+Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
+**The Promethean book is currently the most developed on the site.** 
 
 Features:
-* Simple Resource Tile Creation
-* Organize Resources into Books>Chapters>Sections>Tiles
-* Drag and Drop Reordering
+
+*  Simple Resource Tile Creation
+*  Organize Resources into Books>Chapters>Sections>Tiles
+*  Drag and Drop Reordering
+
+[icafe]: http://icafe.lcisd.org/resources "iCafe"
 
 == Installation ==
 
