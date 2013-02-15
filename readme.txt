@@ -1,101 +1,122 @@
 === GroundWork ===
-Contributors: chrisdnilsson@gmail.com
-Donate link: 
-Tags: library, resource management, staff development, icafe
-Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: chrisdnilsson@gmail.com
+Donate link: 
+Tags: library, resource management, staff development, icafe
+Requires at least: 3.0
+Tested up to: 3.5.1
+Stable tag: 1.0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-GroundWork creates beautiful functional organization of resource materials for Professional Development or Training.
+GroundWork creates beautiful functional organization of resource materials for Professional 
+Development or  
 
-== Description ==
+Training.
 
-GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+== Description ==
 
-With a few steps you can create highly organized resource libraries designed to allow users to easily find the support documents, videos, or links they need. 
+GroundWork isg a plugin designed to create beautiful functional resource libraries for Professional 
+Development  
 
-If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
+delivery.
 
-Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
+With a few steps you can create highly organized resource libraries designed to allow users to easily find 
+the  
 
-**The Promethean book is currently the most developed on the site.** 
+support documents, videos, or links they need. 
 
-Features:
+If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for 
+you. Primarily  
 
-*  Simple Resource Tile Creation
-*  Organize Resources into Books>Chapters>Sections>Tiles
-*  Drag and Drop Reordering
+designed to be used by Public Education Staff Development Departments but any department 
+responsible for  
 
-[icafe]: http://icafe.lcisd.org/resources "iCafe"
+organizational training can benefit from GroundWork.
 
-== Installation ==
+Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
 
-1. Upload `GroundWork` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Watch the included tutorial on the main plugin dashboard menu
-1. Create some content
-1. Place the shortcode '[groundwork]' on a page
-1. Enjoy your library!
+**The Promethean book is currently the most developed on the site.** 
 
-== Frequently asked questions ==
+Features:
 
-= How do I get started? =
+*  Simple Resource Tile Creation
+*  Organize Resources into Books>Chapters>Sections>Tiles
+*  Drag and Drop Reordering
 
-Activate the plugin and click on GroundWork from the side menu.
+[icafe]: http://icafe.lcisd.org/resources "iCafe"
 
-= How are resources organized? =
+== Installation ==
 
-The concept of a bookshelf is used. You create books which can contain Chapters which can contain Sections.
+1. Upload `GroundWork` folder to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Watch the included tutorial on the main plugin dashboard menu
+1. Create some content
+1. Place the shortcode '[groundwork]' on a page
+1. Enjoy your library!
 
-= Where to I put the resources? =
+== Frequently asked questions ==
 
-Resource Tiles can be added to any Chapter or Section.
+= How do I get started? =
 
-= What are "Resource Tiles" =
+Activate the plugin and click on GroundWork from the side menu.
 
-Resource should be very narrow in their focus. A "Tile" is a simple container that holds related Text, Video, or Links together in a organizational and visual way.
+= How are resources organized? =
 
-= Can I reuse a Tile? =
+The concept of a bookshelf is used. You create books which can contain Chapters which can contain 
+Sections.
 
-As many times as you like!
+= Where to I put the resources? =
 
-= How do I change the order of my "Bookshelf" or chapters, sections, resources? =
+Resource Tiles can be added to any Chapter or Section.
 
-Simply Drag and Drop to the correct order or organization...Changes are automatically saved.
+= What are "Resource Tiles" =
 
-= Can I link to a particular Resource Tile to share with a user? =
+Resource should be very narrow in their focus. A "Tile" is a simple container that holds related Text, 
+Video, or  
 
-Yes, just navigate to that tile and copy the URL from the browser.
+Links together in a organizational and visual way.
 
-= My tiles are appearing below the navigation instead of to the right? =
+= Can I reuse a Tile? =
 
-Your template is too narrow. GroundWork requires a full width template with no sidebars or widget areas.
+As many times as you like!
 
-== Screenshots ==
+= How do I change the order of my "Bookshelf" or chapters, sections, resources? =
 
-1. Creating a Book
+Simply Drag and Drop to the correct order or organization...Changes are automatically saved.
 
-2. Organizing Books, Chapters, Sections
+= Can I link to a particular Resource Tile to share with a user? =
 
-3. Creating a Resource Tile
+Yes, just navigate to that tile and copy the URL from the browser.
 
-4. Adding a Tile to a Section
+= My tiles are appearing below the navigation instead of to the right? =
 
-5. Your Bookshelf
+Your template is too narrow. GroundWork requires a full width template with no sidebars or widget 
+areas.
 
-6. Easy Organization and Navigation
+== Screenshots ==
 
-== Changelog ==
+1. Creating a Book
 
-= 1.0.1 =
-* Readme.txt changes.
-* Fixes to SVN layout to enable screenshots in Wordpress.org repository
+2. Organizing Books, Chapters, Sections
 
-= 1.0 =
-* First Public Release.
+3. Creating a Resource Tile
 
-== Upgrade Notice ==
+4. Adding a Tile to a Section
+
+5. Your Bookshelf
+
+6. Easy Organization and Navigation
+
+== Changelog ==
+
+= 1.0.1 =
+* Readme.txt changes.
+* Fixes to SVN layout to enable screenshots in Wordpress.org repository
+
+= 1.0 =
+* First Public Release.
+
+== Upgrade Notice ==
 
 
+
