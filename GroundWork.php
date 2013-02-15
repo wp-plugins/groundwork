@@ -8,7 +8,7 @@ Plugin Name: GroundWork
 
 Description: Wordpress plugin to organize and deploy large scale staff/professional development materials
 
-Version: 0.9
+Version: 1.0.1
 
 Author: Chris Nilsson
 
