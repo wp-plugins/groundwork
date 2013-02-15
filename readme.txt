@@ -11,7 +11,7 @@ GroundWork creates beautiful functional organization of resource materials for P
 
 == Description ==
 
-kGroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
 With a few steps you can create highly organized resource libraries designed to allow users to easily find the support documents, videos, or links they need. 
 If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
 Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
