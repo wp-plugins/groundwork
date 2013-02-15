@@ -15,7 +15,7 @@ Training.
 
 == Description ==
 
-GroundWork isg a plugin designed to create beautiful functional resource libraries for Professional 
+A GroundWork is a plugin designed to create beautiful functional resource libraries for Professional 
 Development  
 
 delivery.
