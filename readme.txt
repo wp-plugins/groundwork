@@ -1,4 +1,4 @@
-=== Ground Work ===
+=== GroundWork ===
 Contributors: chrisdnilsson@gmail.com
 Donate link: 
 Tags: library, resource management, staff development, icafe
