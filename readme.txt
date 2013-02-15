@@ -21,9 +21,11 @@ Visit a live and growing GroundWork library in the [iCafe Resource library] [ica
 **The Promethean book is currently the most developed on the site.** 
 
 *Features:*
+
 *  Simple Resource Tile Creation
 *  Organize Resources into Books>Chapters>Sections>Tiles
 *  Drag and Drop Reordering
+
 
 [icafe]: http://icafe.lcisd.org/resources "iCafe"
 
