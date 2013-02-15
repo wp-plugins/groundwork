@@ -8,15 +8,25 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-GroundWork creates beautiful functional organization of resource materials for Professional Development or Training.
+GroundWork creates beautiful functional organization of resource materials for Professional Development or 
+
+Training.
 
 == Description ==
 
-GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development 
 
-With a few steps you can create highly organized resource libraries designed to allow users to easily find the support documents, videos, or links they need. 
+delivery.
 
-If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily designed to be used by Public Education Staff Development Departments but any department responsible for organizational training can benefit from GroundWork.
+With a few steps you can create highly organized resource libraries designed to allow users to easily find the 
+
+support documents, videos, or links they need. 
+
+If you are tired of managing hundreds of how-to guides that users can't find then GroundWork is for you. Primarily 
+
+designed to be used by Public Education Staff Development Departments but any department responsible for 
+
+organizational training can benefit from GroundWork.
 
 Visit a live and growing GroundWork library in the [iCafe Resource library] [icafe]
 
@@ -36,7 +46,7 @@ Features:
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Watch the included tutorial on the main plugin dashboard menu
 1. Create some content
-1. Place the shortcode [groundwork] on a page
+1. Place the shortcode '[groundwork]' on a page
 1. Enjoy your library!
 
 == Frequently asked questions ==
@@ -55,7 +65,9 @@ Resource Tiles can be added to any Chapter or Section.
 
 = What are "Resource Tiles" =
 
-Resource should be very narrow in their focus. A "Tile" is a simple container that holds related Text, Video, or Links together in a organizational and visual way.
+Resource should be very narrow in their focus. A "Tile" is a simple container that holds related Text, Video, or 
+
+Links together in a organizational and visual way.
 
 = Can I reuse a Tile? =
 
