@@ -10,7 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 GroundWork creates beautiful functional organization of resource materials for Professional Development or Training.
 
 == Description ==
-GroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
+
+kGroundWork is a plugin designed to create beautiful functional resource libraries for Professional Development delivery.
 
 With a few steps you can create highly organized resource libraries designed to allow users to easily find the support documents, videos, or links they need. 
 
